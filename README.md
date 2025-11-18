@@ -142,13 +142,22 @@ If you run into any issues or have questions:
 ```
 TrailblazersProjects/
 ├── README.md
-├── Tutorials/
-│   ├── tutorial-1/
-│   ├── tutorial-2/
+├── Software/
+│   ├── Project 1 - Personal Portfolio/
+│   │   └── Submissions/
+│   ├── Project 2 - .../
 │   └── ...
-└── Assignments/
-    ├── assignment-1/
-    ├── assignment-2/
+├── Mechanical/
+│   ├── Project 1 - .../
+│   ├── Project 2 - .../
+│   └── ...
+├── Research & Data/
+│   ├── Project 1 - .../
+│   ├── Project 2 - .../
+│   └── ...
+└── Electrical/
+    ├── Project 1 - .../
+    ├── Project 2 - .../
     └── ...
 ```
 
